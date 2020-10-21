@@ -16,7 +16,7 @@ namespace DataStructuresDemo
             list.Display();
             list.DeleteDataAtPosition(3);
             list.Display();
-            
+            Console.WriteLine();
         }
     }
 }
